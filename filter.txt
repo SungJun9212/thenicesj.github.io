@@ -59565,7 +59565,7 @@ analytics-*.aasaam.com
 127.0.0.1 gma.alicdn.com
 
 # [aliexpress.com]
-127.0.0.1 s.click.aliexpress.com
+#127.0.0.1 s.click.aliexpress.com
 
 # [aliyun.com]
 127.0.0.1 acjs.aliyun.com
